@@ -23,7 +23,7 @@
 * [阮一峰JavaScript教程（未完成）](https://github.com/Meakle/ruanyifeng_JavaScript)
   * [入门篇](JavaScript/ruanyifeng-javascript/1.md)
   * [数据类型](JavaScript/ruanyifeng-javascript/2.md)
-  * 运算符
+  * [运算符](JavaScript/ruanyifeng-javascript/3.md)
   * 语法专题
   * 标准库
   * 面向对象编程
