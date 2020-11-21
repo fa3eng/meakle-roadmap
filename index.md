@@ -1,10 +1,6 @@
 # 方阿森的roadmap
 
-
-
-[TOC]
-
-
+---
 
 ## 学习记录
 
@@ -39,7 +35,7 @@
 
 * JavaScript高级程序设计第四版
 
-
+---
 
 ## 一些答案
 
@@ -47,7 +43,7 @@
 
 * [现代JavaScript教程 课后练习题]()
 
-
+---
 
 ## 博客
 
@@ -66,7 +62,7 @@
 * [mac中的环境变量](blog/macos/mac中的环境变量.md)
 * [terminal中的相关指令](blog/macos/terminal中的相关指令.md)
 
-
+---
 
 ## 项目
 
