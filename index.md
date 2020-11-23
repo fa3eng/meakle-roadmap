@@ -71,7 +71,7 @@
 
 ### 报错相关
 
-* [homebrew报错：命令行(CLT)不支持macOS11(Big Sur)](blog/error/homebrew报错：命令行(CLT)不支持macOS11(Big Sur).md)
+* [homebrew报错：命令行(CLT)不支持macOS11(Big Sur)](blog/error/homebrew报错：CLT不支持macOS11.md)
 
 ### macOS相关
 
