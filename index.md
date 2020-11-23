@@ -57,6 +57,10 @@
 
 * [作用域链](blog/JavaScript/作用域链.md)
 
+### 报错相关
+
+* [homebrew报错：命令行(CLT)不支持macOS11(Big Sur)](blog/error/homebrew报错：命令行(CLT)不支持macOS11(Big Sur).md)
+
 ### macOS相关
 
 * [mac中的环境变量](blog/macos/mac中的环境变量.md)
