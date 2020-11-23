@@ -1,4 +1,4 @@
-# Homebrew: Your CLT does not support macOS 11.0
+# Homebrew: Your CLT does not support macOS 11.0（Big Sur）
 
 ## 我想要做什么？
 
