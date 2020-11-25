@@ -12,7 +12,8 @@
 
 ### day02
 
-
+* [04_git的基本操作](roadmap/day02/04)
+* [05_配置GitHub](roadmap/day02/05)
 
 
 
