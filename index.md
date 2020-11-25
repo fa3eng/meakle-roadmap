@@ -6,10 +6,9 @@
 
 ### day01
 
-* [01_搭建环境](roadmap/day01/01_搭建环境.md)
-* [02_命令行入门操作](roadmap/day01/02_命令行入门操作.md)
-
-* [03_bug与疑问](roadmap/day01/03_bug与疑问)
+* [01_搭建环境](roadmap/day01/01.md)
+* [02_命令行入门操作](roadmap/day01/02.md)
+* [03_bug与疑问](roadmap/day01/03)
 
 ### day02
 
