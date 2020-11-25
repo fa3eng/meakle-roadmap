@@ -4,11 +4,13 @@
 
 ## roadmap
 
-* [搭建环境](roadmap/day01/01搭建环境.md)
+### day01
 
-* git入门
+* [bug与疑问](roadmap/day01/bug与疑问)
 
-  
+
+
+
 
 ---
 
