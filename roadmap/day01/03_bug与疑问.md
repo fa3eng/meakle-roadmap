@@ -74,3 +74,30 @@ echo -e "export PATH="/Users/meakle/code/lab:$PATH"" >> .bashrc
 
 能够在任意的位置使用`createDemo`这个可执行文件
 
+
+
+
+
+## 解决方法：
+
+
+
+在打开终端之后输入`source ~/.bashrc` 这样上面两个问题都解决了
+
+
+
+今天在问老师问题的时候学到了一个新的命令
+
+* `alias`
+
+> Linux alias命令用于设置指令的别名。
+>
+> 用户可利用alias，自定指令的别名。若仅输入alias，则可列出目前所有的别名设置。alias的效力仅及于该次登入的操作。若要每次登入是即自动设好别名，可在.profile或.cshrc中设定指令的别名。
+>
+> ——[菜鸟教程](https://www.runoob.com/linux/linux-comm-alias.html)
+
+
+
+## 注意点：
+
+在shell当中等号两边不要加上空格，不然有可能出错。今天写脚本的时候发现的。
