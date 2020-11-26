@@ -15,9 +15,10 @@
 * [04_git的基本操作](roadmap/day02/04)
 * [05_配置GitHub](roadmap/day02/05)
 
+### day03
 
-
-
+* [06_html概览](roadmap/day03/06_html概览)
+* [07_html标签](roadmap/day03/07_html标签)
 
 ---
 
