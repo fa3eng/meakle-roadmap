@@ -162,9 +162,24 @@ html:
 
 所以说表现在`demo06_target的取值`就是在`iframe`区域显示出百度的主页
 
+![image-20201127105338422](08_html标签2.assets/image-20201127105338422.png)
+
 
 
 **自命名的target与ifram**
+
+自命名的target：
+
+```html
+ <a href="//baidu.com" target="xxx" >baidu</a>
+ <a href="//google.com" target="xxx" >google</a>
+```
+
+在新打开的标签页上使用`window.name`
+
+![image-20201127110301109](08_html标签2.assets/image-20201127110301109.png)
+
+自命名的target与ifam结合使用：
 
 html:
 
