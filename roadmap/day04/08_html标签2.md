@@ -60,7 +60,7 @@ http-server . -c-1
 
   * 网址要写全。一定要有`//`
   * `https://xxx.com`或者`http://xxx.com`
-  * `://xxx.com` 无协议，这种方式既可以访问`https`也可以访问`http`
+  * `//xxx.com` 无协议，这种方式既可以访问`https`也可以访问`http`
 
 * 路径
 
@@ -73,13 +73,15 @@ http-server . -c-1
 
   * `javascript:代码`
 
-    使用场景：点击一个空链接的时候不发生任何事情
+    使用场景：点击一个空链接的时候不发生任何事
 
     ```html
     <a href="javascript:">233</a>
     ```
 
     此时不会有任何变化
+
+    如果给`href = ""`那么该页面会刷新
 
   * `mailto:mail` 发送邮件
 
