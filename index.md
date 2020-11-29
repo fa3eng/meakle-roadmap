@@ -30,6 +30,13 @@
 * [10_css布局](roadmap/day05/10_CSS布局)
 * [11_grid布局](roadmap/day05/11_grid布局)
 
+### day06
+
+* [12_定位（层叠上下文，还有坑没填完）](roadmap/day06/12_定位)
+* [13_动画](roadmap/day06/13_动画)
+
+
+
 ---
 
 ## 自我学习记录
