@@ -43,6 +43,7 @@
 ### day08
 
 * [16_JavaScript概览](roadmap/day08/16_JavaScript概览)
+* [17_内存图与js世界](roadmap/day08/17_内存图与js世界)
 
 ---
 
