@@ -45,6 +45,11 @@
 * [16_JavaScript概览](roadmap/day08/16_JavaScript概览)
 * [17_内存图与js世界](roadmap/day08/17_内存图与js世界)
 
+### day09
+
+* [18_禁止缩放以及优化弹性滚动](roadmap/day09/18_禁止缩放以及优化弹性滚动)
+* [19_js基础语法](roadmap/day09/19_js基础语法)
+
 ---
 
 ## 自我学习记录
