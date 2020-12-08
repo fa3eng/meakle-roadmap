@@ -65,6 +65,8 @@
 ### day13
 
 * [23_js数组对象](roadmap/day13/23_js数组对象)
+* [24_js函数对象](roadmap/day13/24_js函数对象)
+* [25_JS中循环里面的定时器](roadmap/day13/25_JS中循环里面的定时器)
 
 ---
 
