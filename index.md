@@ -138,5 +138,23 @@
 
 ## 项目
 
-打算先写个todolist
+* **个人简介**
+
+  理论上来说这只是一个demo，内容是介绍我自己，也是这个仓库主分支上readme的内容。
+
+  这个项目用到的技术有——HTML/CSS/JavaScript。
+
+  预览地址：[点这里](https://meakle.github.io/Personal-profile/)
+
+  项目地址：[点这里](https://github.com/Meakle/Personal-profile)
+
+  > 题外话：
+  >
+  > 这是一个具有纪念意义的项目，这里记录着我的前端起点。
+
+
+
+
+
+
 
