@@ -86,6 +86,7 @@
 ### day18
 
 * [31_jQuery入门](roadmap/day18/31_jQuery入门)
+* [32_事件和事件委托](roadmap/day18/32_事件和事件委托)
 
 ---
 
