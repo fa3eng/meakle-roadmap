@@ -23,7 +23,7 @@ hello👋，我是方阿森
 
 
 
-下面是我的GitHub page记录我学习中的笔记、博客和项目（~~虽然目前没有~~）
+下面是我的GitHub page记录我学习中的笔记、博客和项目
 
 [方阿森的github路线图](https://meakle.github.io/meakle-roadmap/)
 
