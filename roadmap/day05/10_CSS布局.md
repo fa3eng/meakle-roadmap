@@ -326,7 +326,7 @@
 * `flex-grow : number`属性，可以将`container`中多余的空间按照比例分配给不同的`items`
 
   ```css
-  .item {w
+  .item {
     flex-grow: 4; /* default 0 */
   }
   ```
@@ -335,7 +335,7 @@
 
 * `flex-shrink : number`属性，当空间不够的时候，`items` 缩小空间的比例
 
-  设置为`flex-shrink : 0`的时候就是不会变下
+  设置为`flex-shrink : 0`的时候就是不会变小
 
   ```css
   .item {

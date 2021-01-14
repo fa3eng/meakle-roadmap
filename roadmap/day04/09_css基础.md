@@ -151,7 +151,7 @@
 
   > `inline-block`元素在发现剩下的空间无法在一行内放完时，会另起一行
   >
-  > ![inline-block换行](Untitled.assets/inline-block换行.jpg)
+  > ![inline-block换行](09_css基础.assets/inline-block换行-8909854.jpg)
 
   
 

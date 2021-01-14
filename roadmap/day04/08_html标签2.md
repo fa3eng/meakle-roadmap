@@ -227,8 +227,6 @@ css：
 
 ## table标签
 
-
-
 table标签中只能嵌套三个标签
 
 * `thead`
